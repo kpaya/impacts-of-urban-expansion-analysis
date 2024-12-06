@@ -29,6 +29,7 @@ Microsoft Planetary Computer. Biodiversity Intactness. 2024. Microsoft. Retrieve
 Census Bureau, TIGER/Line Shapefiles. 2024. Census.Gov. Retrieved December 5, 2024, from https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
 
 OpenStreetMap contributors. BaseMap. 2024. OpenStreetMap. Retrieved December 5, 2024, from https://www.openstreetmap.org/copyright
+
  
 **This project was created as part of the EDS 220: Environmental Data Science course at UCSB.**
  
